@@ -2,6 +2,8 @@
 
 - [github项目](https://github.com/wang128/Spider)
 
+## 工作流程
+![](https://github.com/wang128/Spider/blob/master/src/process.jpg)
 
 ## 运行环境
  - .NET Framework
