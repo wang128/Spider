@@ -22,10 +22,10 @@
 - 解析html可以用正则匹配（我是自己写了一个独立的解析html的类）
 
 ## 运行结果
-- 下载网页<br>
+- 下载网页<br/>
 ![](https://github.com/wang128/Spider/blob/master/src/test1.jpg)
 ![](https://github.com/wang128/Spider/blob/master/src/result1.jpg)
-<br>
-- 下载图片<br>
+<br/>
+- 下载图片<br/>
 ![](https://github.com/wang128/Spider/blob/master/src/test2.jpg)
 ![](https://github.com/wang128/Spider/blob/master/src/result2.jpg)
