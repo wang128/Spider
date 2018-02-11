@@ -20,3 +20,11 @@
 -减轻被爬网站的负荷
 -网页搜索策略（我用的是广度优先搜索，还有深度优先搜索和最佳优先搜索）
 -解析html可以用正则匹配（我是自己写了一个独立的解析html的类）
+
+## 运行结果
+- 下载网页<br>
+![](https://github.com/wang128/Spider/blob/master/src/test1.jpg)
+![](https://github.com/wang128/Spider/blob/master/src/result1.jpg)
+- 下载图片
+![](https://github.com/wang128/Spider/blob/master/src/test2.jpg)
+![](https://github.com/wang128/Spider/blob/master/src/result2.jpg)
