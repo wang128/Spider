@@ -1,6 +1,8 @@
 # Spider(网络爬虫)
 
-- [github项目](https://github.com/wang128/Spider)，利用 C# 编程实现。我一直都想做一个爬虫程序，通过这次对爬虫程序的实现，我学到了很多，对多线程编程有一些初步了解，明白了爬虫程序的原理。
+- [github项目](https://github.com/wang128/Spider)，利用 C# 编程实现。
+- 我一直都想做一个爬虫程序，通过这次对爬虫程序的实现，我学到了很多，对多线程编程有了一些初步认识，了解了爬虫程序的原理。
+- 一开始我实现的只是将爬取的网页下载到对应目录（先根据网址建好文件夹），爬取图片的是后来加上去的。
 
 ## 工作流程
 ![](https://github.com/wang128/Spider/blob/master/src/process.jpg)
