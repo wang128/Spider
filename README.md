@@ -5,7 +5,7 @@
 - 一开始我实现的只是将爬取的网页下载到对应目录（先根据网址建好文件夹），爬取图片的是后来加上去的。
 
 ## 工作流程
-![](https://github.com/wang128/Spider/blob/master/src/process.jpg)
+![](https://github.com/wang128/Spider/blob/master/image/process.jpg)
 
 ## 运行环境
  - .NET Framework
@@ -25,8 +25,8 @@
 
 ## 运行结果
 - 下载网页<br/>
-![](https://github.com/wang128/Spider/blob/master/src/test1.jpg)<br/>
-![](https://github.com/wang128/Spider/blob/master/src/result1.jpg)
+![](https://github.com/wang128/Spider/blob/master/image/test1.jpg)<br/>
+![](https://github.com/wang128/Spider/blob/master/image/result1.jpg)
 - 下载图片<br/>
-![](https://github.com/wang128/Spider/blob/master/src/test2.jpg)<br/>
-![](https://github.com/wang128/Spider/blob/master/src/result2.jpg)
+![](https://github.com/wang128/Spider/blob/master/image/test2.jpg)<br/>
+![](https://github.com/wang128/Spider/blob/master/image/result2.jpg)
